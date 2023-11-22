@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "id": "001",
+      "image": "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F008%2F372%2F10-25mm-concrete-outdoor-interlocking-parking-tile-for-car-parking-300.jpg&w=750&q=75",
+      "materialid": "FT",
+      "materialdescription": "Floor Tile",
+      "currentqty": "50",
+      "previousqty": "60",
+      "qtydiff": "10",
+      "ordercomment": "Good"
+    },
+    {
+      "id": "002",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2020/8/DY/WA/CB/1525295/outdoor-stone-flooring-tiles-500x500.jpeg",
+      "materialid": "T1",
+      "materialdescription": "Tile",
+      "currentqty": "100",
+      "previousqty": "150",
+      "qtydiff": "50",
+      "ordercomment": "Nice"
+    },
+    {
+      "id": "003",
+      "image": "https://asmsheetmetal.com/wp-content/uploads/2023/01/building-material.jpg",
+      "materialid": "S1",
+      "materialdescription": "Steel",
+      "currentqty": "1500",
+      "previousqty": "2000",
+      "qtydiff": "500",
+      "ordercomment": "Good"
+    },
+    {
+      "id": "004",
+      "image": "https://image.made-in-china.com/202f0j00tINUQERWzTka/New-Designs-Steel-Wood-Security-Metal-Door-Building-Material.webp",
+      "materialid": "WD",
+      "materialdescription": "Wood Door",
+      "currentqty": "25",
+      "previousqty": "50",
+      "qtydiff": "25",
+      "ordercomment": "Good"
+    }
+  ],
+  "ordermaterial": [
+    {
+      "id": "006",
+      "buildingid": "29",
+      "orderdescription": "Tile",
+      "buildingname": "Heavens",
+      "buildingaddress": "Kottayam",
+      "remarks": "Good"
+    },
+    {
+      "id": "002",
+      "buildingid": "29",
+      "orderdescription": "Tile",
+      "buildingname": "Heavens",
+      "buildingaddress": "Kollam",
+      "remarks": "Nice"
+    },
+    {
+      "id": "005",
+      "buildingid": "89",
+      "orderdescription": "Ceramic",
+      "buildingname": "RoseVilla",
+      "buildingaddress": "Calicut",
+      "remarks": "Good"
+    },
+    {
+      "id": "004",
+      "buildingid": "345",
+      "orderdescription": "Wood Door",
+      "buildingname": "RoseVilla",
+      "buildingaddress": "Kochi",
+      "remarks": "Good"
+    }
+  ]
+}
